@@ -1,0 +1,10 @@
+Pyrogram<=2.0.33
+TgCrypto
+motor
+aiofiles
+dnspython
+psutil
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp
+shortzy
